@@ -1,0 +1,565 @@
+---
+tags:
+  - EDAIC
+  - MTF
+  - kardiovaskulär
+  - physiologie
+  - deutsch
+erstellt: 2026-03-22
+thema: Kardiovaskuläre Physiologie
+anzahl_fragen: 20
+schwierigkeit: EDAIC-Part-I
+---
+
+# 🫀 MTF – Kardiovaskuläre Physiologie
+
+← [[🎓 EDAIC Lernplan Dashboard|Dashboard]] | [[MCQ – Paper A Physiologie & Pharmakologie|Paper A]] | [[MCQ – Paper B Klinisch & ICU|Paper B]]
+
+> [!info] Format & Instruktionen
+> Jeder Stamm hat **5 Aussagen (a–e)**. Entscheide für jede Aussage unabhängig: **R** (Richtig) oder **F** (Falsch).
+> Prüfungstempo: ~2 Minuten pro Frage. Beantworte alle Aussagen, dann Antwort-Callout aufklappen.
+> Theorie-Referenz: [[Physiologie – Kardiovaskulär]]
+
+---
+
+## Frage 1 – Ventrikuläres Aktionspotenzial
+
+**Stamm:** Bezüglich des kardialen Aktionspotenzials ventrikulärer Myozyten gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Phase 0 (schnelle Depolarisation) wird primär durch spannungsgesteuerte Fast-Na⁺-Kanäle vermittelt. | |
+| b) Die Plateauphase (Phase 2) wird durch Ca²⁺-Einstrom über L-Typ-Kanäle aufrechterhalten. | |
+| c) Das Ruhemembranpotenzial ventrikulärer Myozyten beträgt ca. –70 mV. | |
+| d) Die absolute Refraktärzeit entspricht näherungsweise der mechanischen Kontraktionsdauer → kein Tetanus möglich. | |
+| e) Klasse-Ia-Antiarrhythmika (z. B. Chinidin) wirken primär durch Blockade von L-Typ-Ca²⁺-Kanälen. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 1 – aufklappen
+> - **a) R** – Fast-Na⁺ → maximale Anstiegsgeschwindigkeit ~200 V/s
+> - **b) R** – Gleichgewicht ICa-L ↔ IKr/IKs
+> - **c) F** – RMP = **–90 mV** (Sinusknoten: –60 mV)
+> - **d) R** – Physiologischer Schutz vor Summation
+> - **e) F** – Klasse Ia → **Fast-Na⁺-Blockade** (Klasse IV → Ca²⁺)
+> [!tip]- Examenstipp Frage 1
+> Merkschema: **0**=Na⁺ · **2**=Ca²⁺ · **3**=K⁺ · **4**=Schrittmacher (If).
+> Klassen-Eselsbrücke: I=Na⁺, II=β, III=K⁺, **IV=Ca²⁺**.
+
+---
+
+## Frage 2 – Sinusknoten-Automatizität
+
+**Stamm:** Bezüglich der Automatizität und Schrittmacherfunktion des Sinusknotens gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Das maximale diastolische Potenzial der Sinusknotenzellen beträgt ca. –60 mV. | |
+| b) Die spontane Phase-4-Depolarisation wird zum Teil durch HCN-Kanäle (If, »Funny Current«) vermittelt. | |
+| c) Phase-0-Depolarisation im Sinusknoten wird durch Fast-Na⁺-Kanäle vermittelt. | |
+| d) ACh verlangsamt HF durch IKACh ↑ (M2-Rezeptoren) → Hyperpolarisation. | |
+| e) Die intrinsische Frequenz des His-Purkinje-Systems ist höher als die des AV-Knotens. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 2 – aufklappen
+> - **a) R** – Weniger negativ als Arbeitsmyokard (–90 mV)
+> - **b) R** – Target von Ivabradin
+> - **c) F** – **Langsame L-Typ-Ca²⁺-Kanäle** → flacher Aufstrich
+> - **d) R** – Vagus → K⁺-Leitfähigkeit ↑
+> - **e) F** – Purkinje: **20–40/min** < AV-Knoten: 40–60/min
+> [!tip]- Examenstipp Frage 2
+> Schrittmacherhierarchie: **SA** (60–100) > **AV** (40–60) > **Purkinje** (20–40) /min.
+> Ivabradin blockiert If → HF ↓ ohne neg. Inotropie → Einsatz bei chronischer Herzinsuffizienz + Sinusbradykardie-Kontraindikation für β-Blocker.
+
+---
+
+## Frage 3 – Hämodynamische Grundgleichungen & Normalwerte
+
+**Stamm:** Bezüglich grundlegender hämodynamischer Gleichungen und Normalwerte gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) MAP ≈ DBP + 1/3 × Pulsdruck. | |
+| b) SVR = [(MAP − ZVD) / HZV] × 80 [dyn·s·cm⁻⁵]. | |
+| c) Normaler PVR ist in seiner Größenordnung vergleichbar mit dem SVR. | |
+| d) Normaler Herzindex: 4,0–6,5 L/min/m². | |
+| e) Normaler PCWP: 15–25 mmHg. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 3 – aufklappen
+> - **a) R** – Standardnäherung
+> - **b) R** – Ohmsches Gesetz des Kreislaufs
+> - **c) F** – PVR **50–150** vs. SVR **800–1200** dyn·s·cm⁻⁵
+> - **d) F** – Korrekt: CI = **2,5–4,0** L/min/m²
+> - **e) F** – Korrekt: PCWP = **6–12** mmHg (15–25 = Stauung/PAH)
+> [!tip]- Examenstipp Frage 3
+> Normwerte auswendig: CI **2,5–4,0** L/min/m², PCWP **6–12** mmHg, PVR **50–150** dyn·s·cm⁻⁵ (~1–3 WE).
+> PVR ≈ 1/10 SVR. Pulm. Hypertonie: mPAP >20 mmHg + PVR >2 WE + PCWP ≤15 mmHg.
+
+---
+
+## Frage 4 – Frank-Starling-Mechanismus
+
+**Stamm:** Bezüglich des Frank-Starling-Gesetzes des Herzens gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Bei optimaler Sarkomerlänge (~2,2 µm) → maximale Aktin-Myosin-Überlappung → höchste Kraft. | |
+| b) Bei systolischer HI ist die Starling-Kurve nach unten-rechts verschoben. | |
+| c) Der PLR erhöht die Vorlast bei den meisten Patienten um ca. 300–500 mL. | |
+| d) Positiv inotropes Mittel (z. B. Dobutamin) → Kurve nach oben-links. | |
+| e) Im gesunden Herzen wird der absteigende Starling-Schenkel regelmäßig erreicht. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 4 – aufklappen
+> - **a) R** – Molekulare Grundlage des Gesetzes
+> - **b) R** – Mehr Preload für gleiches SV nötig
+> - **c) F** – Nur ~**150–250 mL** (reversibler Volumen-Challenge)
+> - **d) R** – Höheres SV bei gleichem Preload
+> - **e) F** – Perikard limitiert → absteigender Schenkel = pathologisch
+> [!tip]- Examenstipp Frage 4
+> Volumenresponsivität: ΔSV ≥10 % nach PLR oder PPV/SVV >13 % → aufsteigender Schenkel.
+> Nur ~50 % der ICU-Patienten sind volumenresponsiv!
+
+---
+
+## Frage 5 – Preload & Volumenresponsivität
+
+**Stamm:** Bezüglich der kardialen Vorlast und ihrer klinischen Beurteilung gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) LVEDV ist das genaueste Maß der Vorlast. | |
+| b) PCWP spiegelt LVEDP akkurat wider bei PEEP ≥10 cmH₂O. | |
+| c) Nitrate → Vorlast ↓ primär durch Venodilatation. | |
+| d) PPV >13 % bei kontrollierter Beatmung → Volumenresponsivität. | |
+| e) ZVD ist ein zuverlässiger Prädiktor für Volumenresponsivität. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 5 – aufklappen
+> - **a) R** – Sarkomerlänge ∝ LVEDV
+> - **b) F** – PEEP → intrathorakaler Druck ↑ → PCWP **überschätzt** LVEDP
+> - **c) R** – Venöses Pooling → venöser Rückstrom ↓
+> - **d) R** – Gilt nur: kontrolliert, VT ≥8 mL/kg, Sinusrhythmus
+> - **e) F** – Meta-Analyse: r ≈ 0,18 — **kein** verlässlicher Prädiktor
+---
+
+## Frage 6 – Afterload & Laplace-Gesetz
+
+**Stamm:** Bezüglich der kardialen Nachlast und ihrer Determinanten gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Laplace: T = (P × r) / (2 × h). | |
+| b) Aortenstenose → LV-Nachlast ↑ → konzentrische Hypertrophie (h ↑). | |
+| c) SVR ↓ ≡ LV-Afterload ↓. | |
+| d) Inhalationsanästhetika erhöhen die Nachlast durch Sympathikusaktivierung. | |
+| e) Im versagenden Herz (Plateau der Starling-Kurve): Nachlast ↑ → SV ↑. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 6 – aufklappen
+> - **a) R** – T = Wandspannung, r = Radius, h = Wanddicke
+> - **b) R** – Hypertrophie normalisiert Wandspannung via Laplace
+> - **c) R** – SVR = klinisches Surrogat der Nachlast
+> - **d) F** – Volatile → SVR **↓** dosisabhängig
+> - **e) F** – **Afterload-Mismatch**: SVR ↑ → SV ↓
+---
+
+## Frage 7 – Koronarperfusion
+
+**Stamm:** Bezüglich des koronaren Blutflusses und der myokardialen Sauerstoffversorgung gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) LV-Perfusion fast ausschließlich **diastolisch** (systolische Kompression). | |
+| b) CPP (links) = systolischer Ao-Druck − LVEDP. | |
+| c) O₂-Extraktion Myokard ~25–30 % in Ruhe – wie Skelettmuskel. | |
+| d) Tachykardie verbessert Koronarperfusion durch metabolische Vasodilatation. | |
+| e) Adenosin = primärer metabolischer Vasodilatator der Koronargefäße. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 7 – aufklappen
+> - **a) R** – RV: systolisch + diastolisch
+> - **b) F** – Korrekt: CPP = **diastolischer** Ao-Druck − LVEDP
+> - **c) F** – Myokard extrahiert **70–75 %** → kein Extraktionsreservoir!
+> - **d) F** – Diastole ↓ → Perfusionszeit ↓ + O₂-Bedarf ↑ → **Ischämiegefahr**
+> - **e) R** – Auch Basis der pharmakologischen Belastungstests
+> [!warning]- Examenstipp Frage 7
+> CPP (links) = **diastolischer** Ao-Druck − LVEDP. Myokard-O₂-Extraktion **70–75 %** (Skelettmuskel 25–30 %) → O₂-Mehrbedarf nur durch Fluss ↑.
+> **Tachykardie**: Diastole ↓ + O₂-Bedarf ↑ → perioperatives Ischämie-Hauptrisiko. Ziel: HF **55–75/min**.
+
+---
+
+## Frage 8 – Koronare Autoregulation & Vasoaktive Substanzen
+
+**Stamm:** Bezüglich der Regulation der Koronarzirkulation gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Koronare Autoregulation: konstanter Fluss bei MAP 60–140 mmHg. | |
+| b) CFR (max. Fluss / Ruhefluss) normalerweise 3–5. | |
+| c) RV-Perfusion überwiegend diastolisch (wie LV). | |
+| d) Endothelin-1 = potenter koronarer Vasodilatator. | |
+| e) Hypokapnie (PaCO₂ <35 mmHg) → koronare Vasokonstriktion. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 8 – aufklappen
+> - **a) R** – Unterhalb → druckpassiver Fluss
+> - **b) R** – CFR <2,0 → hämodynamisch relevante KHK
+> - **c) F** – RV: **systolisch + diastolisch** (niedrige Wandspannung)
+> - **d) F** – ET-1 = **potenter Vasokonstriktor** (ETA-Rezeptor)
+> - **e) R** – Wie auch zerebral: CO₂ ↓ → Gefäße enger
+---
+
+## Frage 9 – Arterielle Baroreflexe
+
+**Stamm:** Bezüglich des arteriellen Baroreflexes gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Karotissinus-Afferenzen → N. IX (Hering-Nerv) → NTS. | |
+| b) BD ↑ → Barorezeptorfeuerung ↑ → Bradykardie + Vasodilatation. | |
+| c) BD ↓ → Barorezeptoren aktiviert → Sympathikus direkt stimuliert. | |
+| d) Bezold-Jarisch-Reflex → Bradykardie + Hypotonie + Vasokonstriktion. | |
+| e) Chronische Hypertonie → Barorezeptor-Reset auf höheres Niveau. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 9 – aufklappen
+> - **a) R** – Aortenbogen → N. X
+> - **b) R** – Negative Rückkopplung
+> - **c) F** – BD ↓ → Dehnung ↓ → Feuerung ↓ → Sympathikushemmung **aufgehoben**
+> - **d) F** – Vasokonstriktion ist **falsch** → periphere **Vasodilatation**
+> - **e) R** – Abschwächung akuter Kompensation
+> [!danger]- Examenstipp Frage 9 – Bezold-Jarisch
+> Trias: **Bradykardie + Hypotonie + Vasodilatation** (kein Vasospasmus!).
+> Auslöser: Inferior-STEMI, Spinalanästhesie, Hypovolämie.
+> Therapie: Atropin + Adrenalin + Volumen — KEINE Phenylephrin-Monotherapie!
+
+---
+
+## Frage 10 – Zerebrale Autoregulation
+
+**Stamm:** Bezüglich der Autoregulation des zerebralen Blutflusses (CBF) gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) CBF ~50 mL/100g/min, konstant bei MAP 50–150 mmHg. | |
+| b) PaCO₂ ↑ 1 mmHg → CBF ↑ ~10–15 %. | |
+| c) Chronische Hypertonie → untere Autoregulationsgrenze nach unten ~30–40 mmHg. | |
+| d) Isofluran → zerebrale Autoregulation dosisabhängig beeinträchtigt. | |
+| e) Akute Hypoxie (PaO₂ <60 mmHg) → zerebrale Vasokonstriktion. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 10 – aufklappen
+> - **a) R** – Myogene + metabolische + endotheliale Regulation
+> - **b) F** – Korrekt: CBF ↑ ca. **2–3 %** pro mmHg PaCO₂
+> - **c) F** – Grenze verschiebt sich nach **oben** (~70–80 mmHg) → Ischämierisiko bei »normalen« MAPs
+> - **d) R** – >1,5 MAC → weitgehend aufgehoben
+> - **e) F** – Hypoxie → zerebrale **Vasodilatation** (CBF ↑)
+> [!tip]- Examenstipp Frage 10
+> CO₂-Reaktivität: **2–3 %** CBF-Zunahme pro mmHg PaCO₂ (nicht 10–15 %). Hypertonie → Kurve nach rechts: untere Grenze **~70–80 mmHg**.
+> Hypoxie (pO₂ <60 mmHg) → zerebrale **Vasodilatation**. Isofluran stört Autoregulation dosisabhängig.
+
+---
+
+## Frage 11 – O₂-Transport & kritisches DO₂
+
+**Stamm:** Bezüglich Sauerstoffangebot und -verbrauch gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Normales DO₂ ~1000 mL/min. | |
+| b) Normaler VO₂ ~250 mL/min. | |
+| c) Normale O₂ER: 20–25 %. | |
+| d) Unterhalb krit. DO₂ (~300 mL/min) → VO₂ **unabhängig** vom DO₂. | |
+| e) ScvO₂ <70 % → erhöhte Extraktion oder unzureichendes DO₂. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 11 – aufklappen
+> - **a) R** – DO₂ = HZV × CaO₂ × 10
+> - **b) R** – VO₂ = HZV × (CaO₂ − CvO₂) × 10
+> - **c) R** – O₂ER = VO₂/DO₂ × 100; krit. >50 %
+> - **d) F** – → VO₂ wird **abhängig** (supply-dependent) → Laktat ↑
+> - **e) R** – SSC-Ziel: ScvO₂ >70 %
+---
+
+## Frage 12 – Herzinsuffizienz & Pharmakologie
+
+**Stamm:** Bezüglich der pharmakologischen Behandlung der akuten Herzinsuffizienz auf der Intensivstation gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Dobutamin → pos. Inotropie primär über β₁-Adrenozeptoren. | |
+| b) Milrinon (PDE-III-Hemmer) → cAMP ↑ unabhängig von Adrenozeptoren. | |
+| c) Levosimendan → Troponin-C-Sensibilisierung → Inotropie ohne MVO₂ ↑↑. | |
+| d) Dopamin >10 µg/kg/min → vorherrschend über D1-Rezeptoren. | |
+| e) Noradrenalin → LV-Nachlast ↓ im septischen Schock. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 12 – aufklappen
+> - **a) R** – β₁ >> β₂; kein α₁
+> - **b) R** – Synergie mit Dobutamin möglich
+> - **c) R** – + PDE-III + KATP-Öffner
+> - **d) F** – >10 µg/kg/min → **α₁** dominiert (Vasokonstriktion)
+> - **e) F** – Noradrenalin → SVR **↑** (Nachlast ↑)
+> [!tip]- Dopamin-Rezeptorprofil (Prüfungsklassiker)
+> | Dosis | Rezeptor | Wirkung |
+> |---|---|---|
+> | 1–3 µg/kg/min | D1/D2 | Renale Vasodilatation (kein Nierenprotektionseffekt!) |
+> | 3–10 µg/kg/min | β₁ | Inotropie + Chronotropie |
+> | >10 µg/kg/min | **α₁** | **Vasokonstriktion** |
+
+---
+
+## Frage 13 – Herzzyklus
+
+**Stamm:** Bezüglich des Herzzyklus und auskultatorischer Befunde gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Isovolumetrische Kontraktion: alle 4 Klappen geschlossen. | |
+| b) S1 = Schluss der Mitral- und Trikuspidalklappe. | |
+| c) ~70–80 % der Ventrikelführung = atrialer Kick. | |
+| d) Dikrote Inzisur = Schluss der **Mitralklappe** (isovolumetrische Relaxation). | |
+| e) VHF: atrialer Beitrag erhalten durch AV-Knoten als Pumpe. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 13 – aufklappen
+> - **a) R** – Druckanstieg ohne Volumenänderung
+> - **b) R** – S2 = Aorten- + Pulmonalklappe
+> - **c) F** – Passiv (frühe Diastole): **70–80 %**; atrialer Kick: nur **15–25 %**
+> - **d) F** – Dikrote Inzisur = Schluss der **Aortenklappe** (Beginn Diastole)
+> - **e) F** – AV-Knoten = **kein** Pumpbeitrag; atrialer Kick **verloren**
+---
+
+## Frage 14 – Vaskuläre Physiologie
+
+**Stamm:** Bezüglich des Blutflusses und der Prinzipien der Gefäßphysiologie gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Poiseuille: Fluss ∝ r⁴. | |
+| b) Turbulenz bei Re >4000. | |
+| c) Hkt-Anstieg 35 % → 55 % → Viskosität ↓. | |
+| d) Venen/Venolen: ~65–70 % des Blutvolumens. | |
+| e) Arteriolen = primärer Ort der SVR-Regulation. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 14 – aufklappen
+> - **a) R** – Radius halbieren → Widerstand × **16**
+> - **b) R** – Re 2000–4000 = Übergangsbereich
+> - **c) F** – Viskosität **steigt** mit Hkt
+> - **d) R** – »Kapazitätsgefäße«
+> - **e) R** – ~60–70 % des Gesamtwiderstands
+---
+
+## Frage 15 – Spinalanästhesie – Kardiovaskuläre Effekte
+
+**Stamm:** Bezüglich der kardiovaskulären Effekte der Spinalanästhesie gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Blockade Th1–Th5 → Kardioakzeleratorfasern gelähmt → keine Kompensationstachykardie. | |
+| b) Hypotonie = primär Sympathikolyse → Vasodilatation + ↓ venöser Rückstrom. | |
+| c) Ephedrin bevorzugt (vs. Phenylephrin) beim Kaiserschnitt → weniger uterine Vasokonstriktion. | |
+| d) Bezold-Jarisch-Reflex → Tachykardie + Hypertonie bei ventrikulärer Unterfüllung. | |
+| e) Hohe Spinalanästhesie → Hypertonie durch Blockade vasodilatatorischer Fasern. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 15 – aufklappen
+> - **a) R** – Bradykardie trotz Hypotonie!
+> - **b) R** – Kombinierte Vor- und Nachlastsenkung
+> - **c) F** – **Phenylephrin** bevorzugt → weniger fetale Azidämie als Ephedrin
+> - **d) F** – BJR → **Bradykardie + Hypotonie** + Vasodilatation (nicht Tachykardie!)
+> - **e) F** – → **Hypotonie** (Vasodilatation durch Sympathikolyse)
+---
+
+## Frage 16 – Volatile Anästhetika – Kardiovaskuläre Effekte
+
+**Stamm:** Bezüglich der kardiovaskulären Effekte volatiler Anästhetika gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Alle Volatilen → SVR ↓ dosisabhängig. | |
+| b) Desfluran ≥1,5 MAC → Sympathikusaktivierung → Tachykardie + Hypertonie. | |
+| c) Sevofluran verlängert QTc nicht → sicher bei Long-QT-Syndrom. | |
+| d) Halothan: neg. Inotropie > Sevofluran (equi-MAC). | |
+| e) Volatile → CMRO₂ ↓ → metabolischer Neuroprotektionsmechanismus. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 16 – aufklappen
+> - **a) R** – Unterschiedliche Ausmaße: Isofluran > Sevo > Des
+> - **b) R** – Bei rascher Konzentrationserhöhung
+> - **c) F** – Alle Volatilen **verlängern QTc** → TdP-Risiko
+> - **d) R** – Halothan auch: Katecholamin-Sensibilisierung
+> - **e) R** – Basis für zerebrale Protektion bei HLM
+---
+
+## Frage 17 – Schockdifferenzierung
+
+**Stamm:** Bezüglich der hämodynamischen Profile verschiedener Schockformen gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Kardiogener Schock: HZV ↓, SVR ↑, PCWP ↑. | |
+| b) Septischer Schock (hyperdynam): HZV ↑, SVR ↓↓. | |
+| c) Neurogener Schock präsentiert sich — wie alle Schockformen — mit Tachykardie + erhöhtem SVR. | |
+| d) Obstruktiver Schock (massive LE): PCWP ↑ durch LV-Überfüllung via erhöhtem Pulmonalwiderstand. | |
+| e) Hypovolämischer Schock: PCWP + ZVD ↑ (kompensatorisch). | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 17 – aufklappen
+> - **a) R** – Klassisches »kalter, nasser Schock«
+> - **b) R** – Warmer, roter Schock
+> - **c) F** – Neurogen **einzigartig**: Bradykardie + Hypotonie (kein Tachykardie!)
+> - **d) F** – Massive LE: ZVD ↑ (RV-Versagen), PCWP **normal–niedrig** (LV unterfüllt)
+> - **e) F** – PCWP + ZVD **↓** (Vorlast erniedrigt)
+> [!tip]- Schock-Schnelltabelle (Prüfungsklassiker)
+> | Typ | HZV | SVR | PCWP | ZVD |
+> |---|---|---|---|---|
+> | Hypovolämisch | ↓↓ | ↑ | ↓ | ↓ |
+> | Kardiogen | ↓↓ | ↑ | ↑↑ | ↑ |
+> | Distributiv (Sepsis) | ↑ | ↓↓ | ↓–N | ↓–N |
+> | Obstruktiv (LE) | ↓ | ↑ | N–↓ | ↑ |
+> | Neurogen | ↓ | ↓ | ↓ | ↓ |
+
+---
+
+## Frage 18 – RAAS & Neurohumerale Regulation
+
+**Stamm:** Bezüglich des Renin-Angiotensin-Aldosteron-Systems (RAAS) und der neurohumoralen Kreislaufkontrolle gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Renin aus juxtaglomerulären Zellen bei: Perfusionsdruck ↓, NaCl ↓, Sympathikus ↑. | |
+| b) Ang II → Vasokonstriktion (AT1) + Aldosteron-Synthese. | |
+| c) Aldosteron → Na⁺ ↑, K⁺ ↓ (distaler Tubulus + Sammelrohr). | |
+| d) ACE-Hemmer → Hyperkaliämie durch **Aldosteron ↑**. | |
+| e) ADH → V2-Rezeptor → AQP2-Insertion → H₂O-Rückresorption. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 18 – aufklappen
+> - **a) R** – 3 Hauptstimuli des RAAS
+> - **b) R** – AT2: vasodilatorisch, kardioprotektion
+> - **c) R** – Mineralokortikoidrezeptor
+> - **d) F** – ACE-Hemmer → Ang II ↓ → Aldosteron **↓** → K⁺-Exkretion ↓ → **Hyperkaliämie**
+> - **e) R** – V1a: vasopressorisch (0,03 U/min im Schock)
+---
+
+## Frage 19 – Vasopressoren & Inotropika
+
+**Stamm:** Bezüglich Vasopressoren und Inotropika auf der Intensivstation gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Noradrenalin = 1. Wahl Vasopressor im septischen Schock (SSC-Leitlinien). | |
+| b) Vasopressin 0,03 U/min → vasopressorisch über V1a-Rezeptoren. | |
+| c) Levosimendan → Wirkung primär durch PDE-III-Hemmung → cAMP ↑ → Inotropie. | |
+| d) Bei Anaphylaxie ist Noradrenalin vorzuziehen (stärkere Vasokonstriktion, kein β-Effekt). | |
+| e) Dopamin >10 µg/kg/min → vorherrschend über D1-Rezeptoren. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 19 – aufklappen
+> - **a) R** – MAP-Ziel ≥65 mmHg
+> - **b) R** – Noradrenalin-Sparstrategie; 2nd-line
+> - **c) F** – PDE-III-Hemmer = **Milrinon**; Levosimendan = **Kalzium-Sensitizer** (TnC)
+> - **d) F** – **Adrenalin** = Mittel der Wahl (α+β: Vasokonstriktion + Bronchodilatation)
+> - **e) F** – >10 µg/kg/min → **α₁** (Vasokonstriktion)
+---
+
+## Frage 20 – Pulmonale Hämodynamik & HPV
+
+**Stamm:** Bezüglich der pulmonalen Hämodynamik und des Lungenkreislaufs gilt:
+
+| Aussage | Meine Antwort |
+|---|---|
+| a) Normaler mPAP <25 mmHg in Ruhe. | |
+| b) Normaler PVR: 800–1200 dyn·s·cm⁻⁵ (~10–15 Wood-Einheiten), vergleichbar SVR. | |
+| c) HPV → Vasodilatation in hypoxischen Bereichen → Blutfluss gezielt dorthin. | |
+| d) iNO → starke systemische Vasodilatation → intensives hämodynamisches Monitoring nötig. | |
+| e) Volatile (0,5–1,5 MAC) → HPV **vollständig** aufgehoben → schwere Hypoxämie bei allen Einlungenventilations-Patienten. | |
+
+**Mein Score:** ___/5 | Datum: ___________
+
+
+> [!success]- ✅ Antworten Frage 20 – aufklappen
+> - **a) R** – Neue ESC-Definition PAH: mPAP **>20** mmHg
+> - **b) F** – Korrekt: PVR = **50–150** dyn·s·cm⁻⁵ (~1–3 WE) = 1/10 SVR
+> - **c) F** – HPV = **Vasokonstriktion** in Hypoxie → Blut weg von schlecht belüfteten Zonen
+> - **d) F** – iNO durch Hb inaktiviert → **keine** systemische Wirkung → pulmonal-selektiv
+> - **e) F** – Klinische Dosen: HPV nur **partiell** gehemmt
+---
+
+## 📊 Gesamtauswertung
+
+| Nr. | Thema | a | b | c | d | e | Mein Score |
+|---|---|---|---|---|---|---|---|
+| 1 | Ventrikuläres AP | R | R | **F** | R | **F** | ___/5 |
+| 2 | SA-Knoten | R | R | **F** | R | **F** | ___/5 |
+| 3 | Hämodynamik | R | R | **F** | **F** | **F** | ___/5 |
+| 4 | Frank-Starling | R | R | **F** | R | **F** | ___/5 |
+| 5 | Preload | R | **F** | R | R | **F** | ___/5 |
+| 6 | Afterload | R | R | R | **F** | **F** | ___/5 |
+| 7 | Koronarperfusion | R | **F** | **F** | **F** | R | ___/5 |
+| 8 | Koron. Autoregulation | R | R | **F** | **F** | R | ___/5 |
+| 9 | Baroreflexe | R | R | **F** | **F** | R | ___/5 |
+| 10 | Zerebrale Autoreg. | R | **F** | **F** | R | **F** | ___/5 |
+| 11 | O₂-Transport | R | R | R | **F** | R | ___/5 |
+| 12 | HI-Pharmakologie | R | R | R | **F** | **F** | ___/5 |
+| 13 | Herzzyklus | R | R | **F** | **F** | **F** | ___/5 |
+| 14 | Vaskuläre Physio | R | R | **F** | R | R | ___/5 |
+| 15 | Spinalanästhesie | R | R | **F** | **F** | **F** | ___/5 |
+| 16 | Volatile Anästhetika | R | R | **F** | R | R | ___/5 |
+| 17 | Schockformen | R | R | **F** | **F** | **F** | ___/5 |
+| 18 | RAAS | R | R | R | **F** | R | ___/5 |
+| 19 | Vasopressoren | R | R | **F** | **F** | **F** | ___/5 |
+| 20 | Pulm. Hämodynamik | R | **F** | **F** | **F** | **F** | ___/5 |
+| | **Gesamt** | | | | | | **___/100** |
+
+> [!success] Auswertungsschlüssel
+> - **90–100/100** → Sehr gut — Examensniveau erreicht ✅
+> - **75–89/100** → Gut — Lücken gezielt schließen
+> - **60–74/100** → Befriedigend — Theorie wiederholen
+> - **<60/100** → Grundlagen auffrischen → [[Physiologie – Kardiovaskulär]]
+
+---
+
+*Erstellt: 2026-03-22 | EDAIC Part I | Kardiovaskuläre Physiologie | Deutsch*
+*← [[Physiologie – Kardiovaskulär]] | [[MCQ – Paper A Physiologie & Pharmakologie|Paper A →]]*
